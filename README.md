@@ -1,1 +1,2 @@
 # TexturePackerCrack
+texture packer安装后，执行TexturePacker_Trial_Reset.reg文件
